@@ -10,8 +10,7 @@
       "jsx": true
     },
     "ecmaVersion": 12,
-    "sourceType": "module",
-    "ecmaVersion": "latest"
+    "sourceType": "module"
   },
   "plugins": ["prettier"],
   "overrides": [
